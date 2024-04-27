@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Question Link: https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/
 import java.util.* ;
 import java.io.*; 
-public class _10TargetSumST {
+public class _7TargetSumST {
     public static boolean subsetSumToK(int n, int k, int arr[]){
         // Write your code here.
         // Boolean dp[][] = new Boolean[arr.length][k + 1];
