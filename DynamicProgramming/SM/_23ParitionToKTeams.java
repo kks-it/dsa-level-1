@@ -4,6 +4,22 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
+
+// Sample Input:
+// 5
+// 3
+
+// Sample Output:
+// Recursion Result
+// time taken: 0.0145 milliseconds
+// result: 25
+// Memoization Result
+// time taken: 0.008542 milliseconds
+// result: 25
+// Tabulation Result
+// time taken: 0.049125 milliseconds
+// result: 25
+
 public class _23ParitionToKTeams {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
