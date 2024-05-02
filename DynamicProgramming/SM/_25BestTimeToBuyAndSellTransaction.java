@@ -1,6 +1,13 @@
 package SM;
 import java.util.Scanner;
 
+// Sample Input:
+// 12
+// 10 15 17 20 16 18 22 20 22 20 23 25
+// 3
+
+// Sample Output:
+// maximum profit: 13
 public class _25BestTimeToBuyAndSellTransaction {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);

@@ -1,5 +1,12 @@
 package SM;
-import java.util.Scanner;;
+import java.util.Scanner;
+
+// Sample Input:
+// 12
+// 10 15 17 20 16 18 22 20 22 20 23 25
+
+// Sample Output:
+// max profit: 19
 
 public class _26BestTimeToBuyAndSellWithCoolDown {
     public static void main(String[] args) {
