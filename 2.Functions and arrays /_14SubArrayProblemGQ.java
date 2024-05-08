@@ -3,6 +3,22 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+// Question: Print all subarrays. A subarray is a contiguous non-empty part of an array.
+
+// Sample Input: 
+// 3
+// 10
+// 20
+// 30
+
+// <-------------------------Output------------------------->
+// 10 
+// 10 20 
+// 10 20 30 
+// 20 
+// 20 30 
+// 30 
+
 
 public class _14SubArrayProblemGQ {
     public static void main(String[] args)throws Exception{
