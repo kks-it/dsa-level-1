@@ -1,7 +1,7 @@
 package SM;
 
 // Question Link: https://leetcode.com/problems/coin-change/
-class Solution {
+class _8CoinChange1LC {
     public int coinChange(int[] coins, int amount) {
         // int result = coinChangeRecursion(coins.length - 1, coins, amount);
 

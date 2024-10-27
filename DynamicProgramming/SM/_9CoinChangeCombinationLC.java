@@ -2,7 +2,7 @@ package SM;
 // Question Link: https://leetcode.com/submissions/detail/1241682515/
 
 
-class Solution {
+class _9CoinChangeCombinationLC {
     public int change(int amount, int[] coins) {
         Integer[][] dp = new Integer[coins.length][amount + 1];
         // int count = coinChangeMem(amount, coins, coins.length - 1, dp);
