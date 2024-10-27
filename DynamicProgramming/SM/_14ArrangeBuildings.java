@@ -1,6 +1,6 @@
 // Question Link : https://www.geeksforgeeks.org/problems/count-possible-ways-to-construct-buildings5007/1
-
-class Solution
+package SM;
+class Solution1
 {
     public int TotalWays(int N)
     {

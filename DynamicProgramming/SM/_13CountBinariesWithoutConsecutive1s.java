@@ -2,6 +2,7 @@
 // Initial Template for Java
 
 // Question Link: https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
+package SM;
 
 import java.io.*;
 import java.util.*;

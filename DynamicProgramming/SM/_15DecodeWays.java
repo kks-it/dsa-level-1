@@ -1,5 +1,5 @@
 // Question Link: https://leetcode.com/problems/decode-ways/description/
-
+package SM;
 public class _15DecodeWays {
     public int numDecodings(String s) {
         Integer[] dp = new Integer[s.length()];
